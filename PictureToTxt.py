@@ -1,2 +1,10 @@
+from PIL import Image
+import pytesseract
 
-text = "0987654321"
+from File_control import write
+
+def change(pictureAddress):
+    imgAddr = Image.open(pictureAddress)
+    text = pytesseract.image_to_string(imgAddr)
+    write(text)
+    return text

@@ -2,16 +2,17 @@ def clear():
     entryTxt.set("")
 
 def Go():
+    text = change(entryTxt.get())
     PrintText.insert(tk.INSERT, text)
     PrintText.insert(tk.END, "\n")
 
 import tkinter as tk
-from PictureToTxt import text
+from PictureToTxt import change
 
 gui = tk.Tk()
 
 frame1 = tk.Frame(gui)
-label = tk.Label(frame1, text = "Picture Location:")
+label = tk.Label(frame1, text = "Picture Address:")
 entryTxt = tk.StringVar()
 entry = tk.Entry(frame1, textvariable = entryTxt)
 label.grid(row=0, column=0)

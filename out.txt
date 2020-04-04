@@ -1,0 +1,49 @@
+0 Excellent analytical skills and strong written and verbal communication skills
+Requirements [Nice-to—Haves):
+
+. Experience or exposure to OCR technologies
+
+. Experience or exposure to image processing algorithms
+
+. Experience or exposure to numpy, scipy, opencv and skimage
+
+. Experience or exposure to scikit-learn
+
+0 Experience with C#, Java or IavaScript
+
+0 Developing, deploying and scaling Docker components
+
+. General exposure and familiarity with Machine Learning technologies
+
+Education:
+
+Bachelor’s degree from four-year college or university, preferred; and five years‘
+experience in general software development or comparable related experience.
+
+. Experience working with one or more major relational database technology (Oracle,
+SQL
+
+Server, MySQL, PostgreSQL)
+
+o Comfortable working in both Windows and Linux based environments
+
+. Ability to work effectively with colleagues
+
+0 Ability to work with minimal supervision
+
+. Excellent analytical skills and strong written and verbal communication skills
+Requirements (Nice—to-Haves):
+
+0 Experience or exposure to OCR technologies
+
+. Experience or exposure to image processing algorithms
+
+. Experience or exposure to numpy, scipy, opencv and skimage
+
+. Experience or exposure to scikit—learn
+
+. Experience with C#, Java or IavaScript
+
+0 Developing, deploying and scaling Docker components
+
+. General exposure and familiarity with Machine Learning technologies
