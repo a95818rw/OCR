@@ -10,6 +10,7 @@ import tkinter as tk
 from PictureToTxt import change
 
 gui = tk.Tk()
+gui.title("Sheng")
 
 frame1 = tk.Frame(gui)
 label = tk.Label(frame1, text = "Picture Address:")
