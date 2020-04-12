@@ -1,4 +1,4 @@
-def write(text): 
+def write(text):
     f = open("out.txt", 'w')
     f.write(text)
 
