@@ -2,24 +2,35 @@ def clear():
     entryTxt.set("")
 
 def Go():
-    if choiceOCR.get() == "TEng":
-        text = Tchange(entryTxt.get())
+    if choiceOCR.get() == "TesseractOCRTra":
+        print("TesseractOCRTra")
+        text = Tchange(entryTxt.get(), "chi_tra")
         PrintText.insert(tk.INSERT, text)
         PrintText.insert(tk.END, "\n")
-    elif choiceOCR.get() == "GEng":
-        print("GEhg")
-    elif choiceOCR.get() == "GChi":
-        print("Gchi")
+    elif choiceOCR.get() == "TesseractOCRSim":
+        print("TesseractOCRSim")
+        text = Tchange(entryTxt.get(), "chi_sim")
+        PrintText.insert(tk.INSERT, text)
+        PrintText.insert(tk.END, "\n")
+    elif choiceOCR.get() == "GoogleOCR":
+        print("GoogleOCR")
+        main(entryTxt.get())
+        text = read("./out.txt")
+        PrintText.insert(tk.INSERT, text)
+        PrintText.insert(tk.END, "\n")
 
 import tkinter as tk
 from PictureToTxt import Tchange
+from GoogleOCR import main
+from File_control import read
+
 gui = tk.Tk()
 gui.title("Sheng")
 
 choiceOCR = tk.StringVar()
-choice1 = tk.Radiobutton(gui, text = "TesseractOCR English", value = "TEng", variable = choiceOCR)
-choice2 = tk.Radiobutton(gui, text = "GoogleOCR English", value = "GEng", variable = choiceOCR)
-choice3 = tk.Radiobutton(gui, text = "GoogleOCR Chinese", value = "GChi", variable = choiceOCR)
+choice1 = tk.Radiobutton(gui, text = "TesseractOCR 陳家靖", value = "TesseractOCRTra", variable = choiceOCR)
+choice2 = tk.Radiobutton(gui, text = "TesseractOCR 陈家靖", value = "TesseractOCRSim", variable = choiceOCR)
+choice3 = tk.Radiobutton(gui, text = "GoogleOCR", value = "GoogleOCR", variable = choiceOCR)
 
 frame1 = tk.Frame(gui)
 label = tk.Label(frame1, text = "Picture Address:")
