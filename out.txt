@@ -1,32 +1,48 @@
-﻿________________
+‧ Exce】】ent ana]ytica】 Skii】s and str0ng Written and Verba】 C0mmunicati0n Skiiis
 
-•
-Excellent analytical skills and strong written and verbal communication skills
-Requirements (Nice-to-Haves):
-•
-Experience or exposure to OCR technologies
-• Experience or exposure to image processing algorithms
-• Experience or exposure to numpy, scipy, opencv and skimage
-•
-Experience or exposure to scikit-learn
-•
-Experience with C#, Java or JavaScript
-• Developing, deploying and scaling Docker components
-• General exposure and familiarity with Machine Learning technologies
-Education:
-Bachelor's degree from four-year college or university, preferred; and five years' experience in general software development or comparable related experience.
-• Experience working with one or more major relational database technology (Oracle, SQL
-Server, MySQL, PostgreSQL)
-• Comfortable working in both Windows and Linux based environments
-•
-Ability to work effectively with colleagues
-• Ability to work with minimal supervision
-.
-Excellent analytical skills and strong written and verbal communication skills
-Requirements (Nice-to-Haves):
-• Experience or exposure to OCR technologies
-• Experience or exposure to image processing algorithms • Experience or exposure to numpy, scipy, opencv and skimage
-•
-Experience or exposure to scikit-learn
-• Experience with C#, Java or JavaScript
-• Developing, deploying and scaling Docker components • General exposure and familiarity with Machine Learning technologies
+Requirements 〔NiCe-t0‧Haves)‥
+
+‧ Experience 0r exp08ure t0 0CR techn0】0gies
+
+‧ Experience 0r exposure t0 image pr0cessing aig0rithms
+
+‧ Experience Or exp05ure t0 numpy, Scipyˊ 0pencv and Skimage
+‧ Experience 0r eXp08ure t0 SCikit-iearn
+
+‧ Experience With C#′ ]ava 0r }aVaSCript
+
+‧ Deveiopingˊ depioying and Scaiing D0Cker C0mp0nents
+
+‧ Generai exposure and famiiiarity With Machine Learning techn0】0gies
+
+Educati0n‥
+
+Bacheior′s degree ir0n1 f0ur-year C0】iege 0r university′ preferred; and five years′
+experience in generai Software deveiopment 0r C0mparab]e reiated experience˙
+
+‧ Experience W0rking With one 0r m0re maj0r reiati0nai database techn0]0gy (0racieˊ
+SQL
+
+Serverˊ MySQL′ P0$tgresQL)
+
+‧ C0mf0rtabie W0rking in b0th Wind0ws and Linux based envir0nrnents
+
+‧ Abiiity t0 W0rk effective】y With C0]ieagues
+‧ Abiiity t0 W0rk With minimai Supervisi0n
+
+˙ Excei]ent analyticai Ski‥S and Str0ng Written and Verba] C0mrnunicati0n Ski】is
+
+Requirement3 (Nice‧t0-Haves)︰
+
+˙ Experience 0r exp05ure t0 0CR techn0i0gies
+
+˙ Experience Or exp05ure t0 image pr0cessing aig0rithms
+
+‧ Experience 0r exp08ure t0 nuinpy﹒ SCipy′ 0pencv and Skiniage
+‧ Experience 0r exp08ure t0 SCikit-iearn
+
+‧ Experience \﹙/ith C#′ ]ava 0r ]avaScript
+
+‧ Devei0ping′ dep]0ying and Scaiing D0cker C0mp0nents
+
+‧ Genera】 exposure and fami】iarity With Machine Learning techn0】0gies
